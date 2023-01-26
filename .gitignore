@@ -1,4 +1,4 @@
 node_modules
-./coverage
-./tsconfig.json
-./jest.config.json
+coverage
+tsconfig.json
+jest.config.json
